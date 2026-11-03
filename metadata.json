@@ -1,0 +1,6 @@
+{
+  "name": "NOVAIRE — Luxury Contemporary Fashion",
+  "description": "Premium contemporary fashion e-commerce experience with monochrome editorial aesthetics, collections, checkout, customer accounts, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
